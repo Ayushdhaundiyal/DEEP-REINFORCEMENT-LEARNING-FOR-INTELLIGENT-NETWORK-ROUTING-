@@ -1,2 +1,2 @@
 # DEEP-REINFORCEMENT-LEARNING-FOR-INTELLIGENT-NETWORK-ROUTING-
-Developed and intelligent network routing system using deep learning reinforcement that helps the find optimal path between the network nodes and its main process is in ( markov decision process).
+Developed and intelligent network routing system using deep learning reinforcement that helps to find optimal path between the network nodes and its main process is in ( markov decision process). where  reinforcement learning  agent learns routing decision through network condition such as latency , bandwidth , congestion and packet loss.
